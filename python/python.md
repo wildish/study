@@ -29,3 +29,4 @@
 
 - 本机安装python3环境
 - 配置VSCode远程调试，[参考链接](https://www.codenong.com/cs105157944/)
+  - 如何同步代码到远程？
